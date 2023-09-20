@@ -1,0 +1,72 @@
+	.card-header .heading-elements{
+		position: absolute;
+		top: 0px;
+		right: 20px;
+		background-color: inherit;
+	}
+	.ml-0 {
+		margin-left: 0!important;
+		padding-left: 0px;
+	}
+	.vg-btn-ssp-success{
+		display: inline-block;
+		padding-top: 3px;
+		padding-bottom: 3px;
+		padding-left: 5px;
+		padding-right: 5px;
+		background-color: #5ed84f;
+		color: #fff;
+		border-radius: 5px;
+		width: 27px;
+		margin: 3px;
+	}
+	.vg-btn-ssp-primary{
+		display: inline-block;
+		padding-top: 3px;
+		padding-bottom: 3px;
+		padding-left: 5px;
+		padding-right: 5px;
+		background-color: #6967ce;
+		color: #fff;
+		border-radius: 5px;
+		width: 27px;
+		margin: 3px;
+	}
+	.vg-btn-ssp-danger{
+		display: inline-block;
+		padding-top: 3px;
+		padding-bottom: 3px;
+		padding-left: 5px;
+		padding-right: 5px;
+		background-color: #fa626b;
+		color: #fff;
+		border-radius: 5px;
+		width: 27px;
+		margin: 3px;
+	}
+	.vg-btn-ssp-info{
+		display: inline-block;
+		padding-top: 3px;
+		padding-bottom: 3px;
+		padding-left: 5px;
+		padding-right: 5px;
+		background-color: #28afd0;
+		color: #fff;
+		border-radius: 5px;
+		width: 27px;
+		margin: 3px;
+	}
+	div.dataTables_wrapper div.dataTables_length select {
+	    width: 75px;
+	    display: inline-block;
+	    height: 30px;
+	    margin-top: 24px;
+	}
+
+	div.dataTables_wrapper div.dataTables_filter input {
+	    margin-left: 0.5em;
+	    display: inline-block;
+	    width: auto;
+	    height: 30px;
+	    margin-top: 10px;
+	}

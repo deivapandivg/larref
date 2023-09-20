@@ -1,0 +1,4 @@
+LeadName ,MobileNumber,AlterMobileNumber,EmailId,AlterEmailId,Age,Course,Qualification,CountryName,StateName,CityName,Address,Description
+Test Lead1,1234567890,,test1@test.com,,25,B.Sc Catering & Hotel Administration,10th,India,Tamil Nadu,Chennai,chennai,New Leads
+Test Lead2,1234567891,,test2@test.com,,24,Catering &amp,12th,India,Tamil Nadu,Zwolle,chennai,New Leads
+Test Lead3,1234567892,,test3@test.com,,24,Unknown,Bsc,India,Tamil Nadu, San Giorgio,chennai,New Leads
